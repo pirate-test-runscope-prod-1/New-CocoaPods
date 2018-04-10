@@ -628,7 +628,7 @@
 				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav.v-koand.com.ios.New";
+				PRODUCT_BUNDLE_IDENTIFIER = koand.com.ios.New;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
@@ -647,7 +647,7 @@
 				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav.v-koand.com.ios.New";
+				PRODUCT_BUNDLE_IDENTIFIER = koand.com.ios.New;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";

@@ -626,10 +626,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav.v-koand.com.ios.New";
+				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.ios.New";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "741dc78c-f8de-4e9e-8727-96f6af7a5dab";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Dist Prov";
@@ -646,10 +646,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav.v-koand.com.ios.New";
+				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.ios.New";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "741dc78c-f8de-4e9e-8727-96f6af7a5dab";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Dist Prov";

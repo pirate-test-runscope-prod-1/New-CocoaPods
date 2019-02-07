@@ -629,7 +629,7 @@
         DEVELOPMENT_TEAM = 9KBH5RKYEW;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
         PROVISIONING_PROFILE = "";
         PROVISIONING_PROFILE_SPECIFIER = "";
@@ -649,7 +649,7 @@
         DEVELOPMENT_TEAM = 9KBH5RKYEW;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
         PROVISIONING_PROFILE = "";
         PROVISIONING_PROFILE_SPECIFIER = "";
